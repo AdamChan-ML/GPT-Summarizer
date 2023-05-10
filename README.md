@@ -1,1 +1,1 @@
-### GPT Summarizer Project
+### Summarization App Project
