@@ -1,2 +1,6 @@
+import streamlit as st
+
 def youtube_summarization_page():
-    pass
+    st.header("Youtube Video Summarization")
+
+    youtube_link = st.text_input('Youtube Video Link')

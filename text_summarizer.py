@@ -1,5 +1,4 @@
 import streamlit as st
-import tensorflow
 from transformers import pipeline
 
 @st.cache_data()
@@ -34,8 +33,8 @@ def text_summarization_page():
     st.header("Text Summarization")
 
     article_text = st.text_area("Text to be summarized:", height=200)
-    max = st.slider('Select max', 50, 500, step=10, value=150)
-    min = st.slider('Select min', 10, 450, step=10, value=50)
+    max = st.slider('Select max', 50, 500, step=10, value=350)
+    min = st.slider('Select min', 10, 450, step=10, value=100)
     do_sample = st.checkbox("Do sample", value=False)
 
     if len(article_text) > 100:
