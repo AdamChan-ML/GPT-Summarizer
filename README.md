@@ -1,6 +1,4 @@
-### Summarization App Project
-
-# Summarization Web App
+# Summarization Web App Project
 
 This project is a web application that provides users with the ability to generate summaries of text using pre-trained large language models (LLMs). The application is built using Python and Streamlit and utilizes the Hugging Face transformers library to perform text summarization. The youtube video summariztion part is under-development and will the web app will be deployed soon! :)
 
