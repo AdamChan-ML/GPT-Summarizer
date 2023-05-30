@@ -7,7 +7,6 @@ This project is a web application that provides users with the ability to genera
 - [Features](#features)
 - [Demo](#demo)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -17,5 +16,6 @@ This project is a web application that provides users with the ability to genera
 - Download summary to local disk in csv format
 
 ## Demo
+
 Stay Tuned for the live demo
 [Ignore] A live demo of the application can be found [here]().
