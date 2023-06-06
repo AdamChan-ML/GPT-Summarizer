@@ -13,9 +13,10 @@ This project is a web application that provides users with the ability to genera
 ## Features
 
 - Generate summaries of text using pre-trained LLM models
+- Generate summaries of videos by providing a Youtube url link
 - Download summary to local disk in csv format
 
 ## Demo
 
 Stay Tuned for the live demo
-[Ignore] A live demo of the application can be found [here]().
+A live demo of the application can be found [here](https://summarization-adamml.streamlit.app/).
