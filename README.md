@@ -6,6 +6,7 @@ This project is a web application that provides users with the ability to genera
 
 - [Features](#features)
 - [Demo](#demo)
+- [Packages/Libraries Used](#packages/libraries-used)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](https://github.com/AdamChan-ML/Summarization-Web-App/blob/master/LICENSE)
@@ -19,6 +20,16 @@ This project is a web application that provides users with the ability to genera
 ## Demo
 
 A live demo of the application can be found [here](https://summarization-adamml.streamlit.app/).
+
+## Packages/Libraries Used
+
+requests==2.28.2
+pytube==15.0.0
+streamlit==1.22.0
+pandas==1.4.4
+transformers==4.28.1
+
+Packages and libraries utilized can be found in [requirements.txt](/requirements.txt) as well.
 
 ## Getting Started
 
