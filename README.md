@@ -23,13 +23,9 @@ A live demo of the application can be found [here](https://summarization-adamml.
 
 ## Packages/Libraries Used
 
-requests==2.28.2
-pytube==15.0.0
-streamlit==1.22.0
-pandas==1.4.4
-transformers==4.28.1
+Packages/Libraries: requests, pytube, streamlit, pandas, transformers
 
-Packages and libraries utilized can be found in [requirements.txt](/requirements.txt) as well.
+Packages and libraries versions can be found in [requirements.txt](/requirements.txt) as well.
 
 ## Getting Started
 
