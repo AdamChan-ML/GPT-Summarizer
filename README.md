@@ -9,7 +9,7 @@ This project is a web application that provides users with the ability to genera
 - [Packages/Libraries Used](#packages/libraries-used)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](https://github.com/AdamChan-ML/Summarization-Web-App/blob/master/LICENSE)
+- [License](/LICENSE)
 
 ## Features
 
